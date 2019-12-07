@@ -1,0 +1,20 @@
+{
+	"result": {
+		"item": "breadnstuff:garlic_dough",
+		"count": 8
+	},
+	"pattern": [
+		"AAA",
+		"ABA",
+		"AAA"
+	],
+	"type": "forge:ore_shaped",
+	"key": {
+		"A": {
+			"item": "breadnstuff:dough"
+		},
+		"B": {
+			"item": "breadnstuff:garlic"
+		}
+	}
+}

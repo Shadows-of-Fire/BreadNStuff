@@ -1,0 +1,14 @@
+{
+	"result": {
+		"item": "breadnstuff:garlic_cheese_dough",
+		"count": 2
+	},
+	"ingredients": [{
+			"item": "breadnstuff:garlic_dough"
+		},
+		{
+			"item": "breadnstuff:cheese_dough"
+		}
+	],
+	"type": "forge:ore_shapeless"
+}

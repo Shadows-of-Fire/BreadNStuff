@@ -1,0 +1,15 @@
+{
+	"result": {
+		"item": "breadnstuff:cheese_toast_block"
+	},
+	"pattern": [
+		"AAA",
+		"AAA"
+	],
+	"type": "forge:ore_shaped",
+	"key": {
+		"A": {
+			"item": "breadnstuff:cheese_toast"
+		}
+	}
+}

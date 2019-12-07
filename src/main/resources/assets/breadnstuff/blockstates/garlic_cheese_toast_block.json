@@ -1,0 +1,25 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "breadnstuff:toast/uneaten",
+		"textures": {
+			"particle": "breadnstuff:block/garliccheesebread_side",
+			"bottom": "breadnstuff:block/toast_bottom",
+			"top": "breadnstuff:block/garliccheesebread_top",
+			"side": "breadnstuff:block/garliccheesebread_side",
+			"bigside": "breadnstuff:block/cheesebread_bigside",
+			"inside": "breadnstuff:block/garliccheesebread_inner"
+		},
+		"transform": "forge:default-block"
+	},
+	"variants": {
+		"inventory": { "model": "breadnstuff:toast/uneaten" },
+        "bites=0": { "model": "breadnstuff:toast/uneaten" },
+        "bites=1": { "model": "breadnstuff:toast/slice1" },
+        "bites=2": { "model": "breadnstuff:toast/slice2" },
+        "bites=3": { "model": "breadnstuff:toast/slice3" },
+        "bites=4": { "model": "breadnstuff:toast/slice4" },
+        "bites=5": { "model": "breadnstuff:toast/slice5" },
+        "bites=6": { "model": "breadnstuff:toast/slice6" }
+	}
+}
